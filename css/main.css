@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 #header{
     background: #14274A;
     background: url("../img/header.png");
