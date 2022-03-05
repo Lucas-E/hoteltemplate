@@ -3,7 +3,7 @@ html{
 }
 #header{
     background: #14274A;
-    background: url("../img/header.png");
+    background: rgba(0, 0, 30, 0.5) url("../img/header.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: darken;
@@ -16,4 +16,13 @@ html{
 }
 .hotels{
     letter-spacing: 10px;
+}
+#rodape{
+    background: #14274A;
+    color: white;
+}
+
+#rodape a{
+    text-decoration: none;
+    color: white;
 }
