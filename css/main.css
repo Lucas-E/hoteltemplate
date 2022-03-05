@@ -1,0 +1,16 @@
+#header{
+    background: #14274A;
+    background: url("../img/header.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+}
+#header-content{
+    color: white;
+}
+.header-content-content{
+    margin:0 !important;
+}
+.hotels{
+    letter-spacing: 10px;
+}
