@@ -26,3 +26,10 @@ html{
     text-decoration: none;
     color: white;
 }
+#main-content-link{
+    transition: .3s ease;
+}
+#main-content-link:hover{
+    transform: translateY(10px);
+    transition: .3s ease;
+}
